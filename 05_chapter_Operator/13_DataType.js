@@ -3,4 +3,4 @@
 // string, number, boolean, bigInt, undefined, null, Symbol
 // array, NaN
 
-
+console.log("something");
